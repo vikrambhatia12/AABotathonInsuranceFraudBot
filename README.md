@@ -21,7 +21,7 @@ information from unstructured documents and communicate with third-party sources
 information, the bot calculates a Fraud Score and generates the next action steps for claims adjusters. Claim adjusters can use the 
 'human-in-the-loop' feature of the solution to interact with the bot by viewing high-level insights and claims-specific information.
 
-## The bot has been designed with digital building blocks and uses APIs and python scripting. The Automation Anywhere IPA technology 
+The bot has been designed with digital building blocks and uses APIs and python scripting. The Automation Anywhere IPA technology 
 orchestrates the whole process allowing for end-to-end automation. The modularity in the design of the solution allows for quick and 
 easy upgrades to the solution based on the insurance company preferences.
 
