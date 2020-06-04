@@ -12,7 +12,7 @@ from employees working at home is quite a challenging task.
 
 ## Inspiration:
 The inspiration behind this solution was to make our contribution to the community during and post-COVID. Automation Anywhere's 
-IPA technology has enabled us to employ the most sophisticated digital technologies to solve problems. 
+IPA technology has enabled us to employ the most sophisticated digital technologies to solve problems. Additionally, our team has representation from Europe, the Middle East, and Asia and this allowed us to bring our different perspectives and skills on the table.
 
 ## Solution:
 Our solution, the Fraud Detection Bot is an intelligent process automation solution that leverages machine learning blocks such 
